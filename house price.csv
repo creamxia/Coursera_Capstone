@@ -1,0 +1,307 @@
+Borough,Neighborhood,Median List Price,Average Rent Price
+Bronx,Wakefield,"$599,000 ",
+Bronx,Co-op City,"$570,000 ",
+Bronx,Eastchester,"$599,000 ",
+Bronx,Fieldston,"$407,000 ",
+Bronx,Riverdale,"$385,000 ",
+Bronx,Kingsbridge,"$412,550 ",
+Bronx,Woodlawn,"$512,000 ",
+Bronx,Norwood,"$243,500 ",
+Bronx,Williamsbridge,"$622,500 ",
+Bronx,Baychester,"$590,000 ",
+Bronx,Pelham Parkway,"$259,000 ",
+Bronx,City Island,"$559,490 ",
+Bronx,Bedford Park,"$240,000 ",
+Bronx,University Heights,"$284,000 ",
+Bronx,Morris Heights,"$850,000 ",
+Bronx,Fordham,"$599,990 ",
+Bronx,East Tremont,"$600,000 ",
+Bronx,West Farms,"$695,000 ",
+Bronx,High Bridge,"$450,000 ",
+Bronx,Melrose,"$269,000 ",
+Bronx,Mott Haven,"$1,040,000 ",
+Bronx,Port Morris,,
+Bronx,Longwood,"$750,000 ",
+Bronx,Hunts Point,"$899,990 ",
+Bronx,Morrisania,"$560,000 ",
+Bronx,Soundview,"$504,490 ",
+Bronx,Clason Point,"$572,000 ",
+Bronx,Throgs Neck,"$599,500 ",
+Bronx,Country Club,"$659,490 ",
+Bronx,Parkchester,"$260,000 ",
+Bronx,Westchester Square,"$550,000 ",
+Bronx,Van Nest,"$712,000 ",
+Bronx,Morris Park,"$775,000 ",
+Bronx,Belmont,"$945,000 ",
+Bronx,Spuyten Duyvil,"$365,000 ",
+Bronx,North Riverdale,,
+Bronx,Pelham Bay,"$649,990 ",
+Bronx,Schuylerville,"$672,300 ",
+Bronx,Edgewater Park,,
+Bronx,Castle Hill,"$624,500 ",
+Bronx,Olinville,"$636,490 ",
+Bronx,Pelham Gardens,"$649,990 ",
+Bronx,Concourse,"$499,000 ",
+Bronx,Unionport,,
+Bronx,Edenwald,,
+Bronx,Claremont Village,,
+Bronx,Concourse Village,"$319,990 ",
+Bronx,Mount Eden,"$697,500 ",
+Bronx,Mount Hope,"$795,000 ",
+Bronx,Bronxdale,,
+Bronx,Allerton,"$650,000 ",
+Bronx,Kingsbridge Heights,"$244,000 ",
+Brooklyn,Bay Ridge,"$588,000 ",
+Brooklyn,Bensonhurst,"$1,250,000 ","$1,869 "
+Brooklyn,Sunset Park,"$1,440,000 ",
+Brooklyn,Greenpoint,"$1,440,000 ","$4,056 "
+Brooklyn,Gravesend,"$872,000 ","$1,859 "
+Brooklyn,Brighton Beach,"$574,000 ","$2,226 "
+Brooklyn,Sheepshead Bay,"$644,170 ","$2,156 "
+Brooklyn,Manhattan Terrace,,
+Brooklyn,Flatbush,"$812,500 ","$2,027 "
+Brooklyn,Crown Heights,"$949,990 ","$2,423 "
+Brooklyn,East Flatbush,"$722,000 ","$2,216 "
+Brooklyn,Kensington,"$549,000 ","$1,868 "
+Brooklyn,Windsor Terrace,"$1,290,000 ","$2,565 "
+Brooklyn,Prospect Heights,,
+Brooklyn,Brownsville,"$699,000 ",
+Brooklyn,Williamsburg,"$1,370,000 ","$3,514 "
+Brooklyn,Bushwick,"$1,190,000 ","$3,140 "
+Brooklyn,Bedford Stuyvesant,"$1,080,000 ","$3,042 "
+Brooklyn,Brooklyn Heights,"$1,800,000 ","$3,657 "
+Brooklyn,Cobble Hill,"$1,700,000 ","$3,657 "
+Brooklyn,Carroll Gardens,"$1,820,000 ","$3,839 "
+Brooklyn,Red Hook,"$1,560,000 ","$3,839 "
+Brooklyn,Gowanus,"$1,270,000 ","$3,559 "
+Brooklyn,Fort Greene,"$1,250,000 ","$3,601 "
+Brooklyn,Park Slope,"$1,490,000 ","$3,559 "
+Brooklyn,Cypress Hills,,
+Brooklyn,East New York,"$739,000 ",
+Brooklyn,Starrett City,,
+Brooklyn,Canarsie,"$702,500 ","$2,042 "
+Brooklyn,Flatlands,"$675,000 ","$1,789 "
+Brooklyn,Mill Island,,
+Brooklyn,Manhattan Beach,"$785,000 ","$2,226 "
+Brooklyn,Coney Island,"$499,000 ",
+Brooklyn,Bath Beach,"$1,040,000 ","$1,869 "
+Brooklyn,Borough Park,"$1,290,000 ","$1,877 "
+Brooklyn,Dyker Heights,"$963,500 ",
+Brooklyn,Gerritsen Beach,"$476,950 ","$1,695 "
+Brooklyn,Marine Park,"$774,990 ","$1,697 "
+Brooklyn,Clinton Hill,"$1,140,000 ","$2,951 "
+Brooklyn,Sea Gate,,
+Brooklyn,Downtown,,"$3,657 "
+Brooklyn,Boerum Hill,,
+Brooklyn,Prospect Lefferts Gardens,,
+Brooklyn,Ocean Hill,,
+Brooklyn,City Line,,
+Brooklyn,Bergen Beach,"$869,000 ","$1,789 "
+Brooklyn,Midwood,"$499,000 ","$1,866 "
+Brooklyn,Prospect Park South,,
+Brooklyn,Georgetown,,
+Brooklyn,East Williamsburg,,
+Brooklyn,North Side,,
+Brooklyn,South Side,,
+Brooklyn,Ocean Parkway,,
+Brooklyn,Fort Hamilton,,
+Brooklyn,Ditmas Park,,
+Brooklyn,Wingate,,
+Brooklyn,Rugby,,
+Brooklyn,Remsen Village,,
+Brooklyn,New Lots,,
+Brooklyn,Paerdegat Basin,,
+Brooklyn,Mill Basin,"$1,140,000 ","$1,789 "
+Brooklyn,Fulton Ferry,,
+Brooklyn,Vinegar Hill,"$1,090,000 ","$3,657 "
+Brooklyn,Weeksville,,
+Brooklyn,Broadway Junction,,
+Brooklyn,Dumbo,"$1,830,000 ","$3,657 "
+Brooklyn,Homecrest,,
+Brooklyn,Highland Park,,
+Brooklyn,Madison,,
+Brooklyn,Erasmus,,
+Manhattan,Marble Hill,,"$1,708 "
+Manhattan,Chinatown,"$1,990,000 ","$5,116 "
+Manhattan,Washington Heights,"$625,000 ","$2,284 "
+Manhattan,Inwood,"$409,000 ","$2,375 "
+Manhattan,Hamilton Heights,,
+Manhattan,Manhattanville,,
+Manhattan,Central Harlem,"$948,000 ","$2,948 "
+Manhattan,East Harlem,"$875,000 ","$2,965 "
+Manhattan,Upper East Side,"$1,390,000 ","$4,382 "
+Manhattan,Yorkville,,
+Manhattan,Lenox Hill,,
+Manhattan,Roosevelt Island,,
+Manhattan,Upper West Side,"$1,390,000 ","$4,668 "
+Manhattan,Lincoln Square,,
+Manhattan,Clinton,"$1,120,000 ","$4,053 "
+Manhattan,Midtown,"$2,030,000 ","$4,022 "
+Manhattan,Murray Hill,"$829,000 ","$4,143 "
+Manhattan,Chelsea,"$1,920,000 ","$4,370 "
+Manhattan,Greenwich Village,"$1,200,000 ","$4,378 "
+Manhattan,East Village,"$892,500 ","$4,320 "
+Manhattan,Lower East Side,"$875,000 ","$4,676 "
+Manhattan,Tribeca,"$4,290,000 ","$5,607 "
+Manhattan,Little Italy,"$3,490,000 ","$5,607 "
+Manhattan,Soho,"$2,990,000 ","$5,301 "
+Manhattan,West Village,"$1,800,000 ","$4,598 "
+Manhattan,Manhattan Valley,,
+Manhattan,Morningside Heights,"$785,000 ","$4,388 "
+Manhattan,Gramercy,"$1,140,000 ","$4,275 "
+Manhattan,Battery Park City,"$1,620,000 ","$5,605 "
+Manhattan,Financial District,"$1,500,000 ","$4,142 "
+Manhattan,Carnegie Hill,,
+Manhattan,Noho,"$3,850,000 ","$4,394 "
+Manhattan,Civic Center,,
+Manhattan,Midtown South,,
+Manhattan,Sutton Place,"$1,150,000 ","$3,941 "
+Manhattan,Turtle Bay,,
+Manhattan,Tudor City,,
+Manhattan,Stuyvesant Town,-,"$3,611 "
+Manhattan,Flatiron,"$2,450,000 ","$4,276 "
+Manhattan,Hudson Yards,"$2,490,000 ","$5,055 "
+Queens,Astoria,"$977,500 ","$2,574 "
+Queens,Woodside,"$749,000 ","$2,067 "
+Queens,Jackson Heights,"$459,000 ","$2,275 "
+Queens,Elmhurst,"$539,490 ","$2,046 "
+Queens,Howard Beach,"$689,000 ",
+Queens,Corona,"$899,000 ","$2,089 "
+Queens,Forest Hills,"$447,000 ","$2,748 "
+Queens,Kew Gardens,"$362,000 ",
+Queens,Richmond Hill,"$689,240 ",
+Queens,Flushing,"$789,000 ","$2,028 "
+Queens,Long Island City,"$952,500 ","$3,525 "
+Queens,Sunnyside,"$449,000 ","$3,433 "
+Queens,East Elmhurst,"$932,450 ","$2,036 "
+Queens,Maspeth,"$861,500 ","$2,067 "
+Queens,Ridgewood,"$980,000 ",
+Queens,Glendale,"$850,000 ",
+Queens,Rego Park,"$444,440 ","$2,225 "
+Queens,Woodhaven,"$699,000 ",
+Queens,Ozone Park,"$731,970 ",
+Queens,South Ozone Park,"$675,880 ",
+Queens,College Point,"$875,000 ","$1,892 "
+Queens,Whitestone,"$928,000 ","$2,175 "
+Queens,Bayside,"$1,150,000 ","$2,500 "
+Queens,Auburndale,,
+Queens,Little Neck,"$888,000 ","$2,073 "
+Queens,Douglaston,,
+Queens,Glen Oaks,"$314,890 ",
+Queens,Bellerose,"$635,000 ","$2,003 "
+Queens,Kew Gardens Hills,"$730,000 ",
+Queens,Fresh Meadows,"$929,990 ","$1,892 "
+Queens,Briarwood,"$340,000 ","$1,889 "
+Queens,Jamaica Center,"$639,000 ","$1,889 "
+Queens,Oakland Gardens,,
+Queens,Queens Village,"$629,000 ","$2,286 "
+Queens,Hollis,"$704,990 ","$1,106 "
+Queens,South Jamaica,,
+Queens,St. Albans,"$619,000 ",
+Queens,Rochdale,,
+Queens,Springfield Gardens,"$609,000 ",
+Queens,Cambria Heights,"$588,990 ",
+Queens,Rosedale,"$599,000 ",
+Queens,Far Rockaway,"$598,000 ","$2,310 "
+Queens,Broad Channel,"$389,250 ",
+Queens,Breezy Point,,
+Queens,Steinway,,
+Queens,Beechhurst,,
+Queens,Bay Terrace,"$581,500 ","$2,475 "
+Queens,Edgemere,,
+Queens,Arverne,"$554,450 ",
+Queens,Rockaway Beach,,
+Queens,Neponsit,"$1,880,000 ",
+Queens,Murray Hill,"$1,080,000 ","$1,892 "
+Queens,Floral Park,"$675,000 ",
+Queens,Holliswood,,
+Queens,Jamaica Estates,"$469,990 ","$1,835 "
+Queens,Queensboro Hill,,
+Queens,Hillcrest,,
+Queens,Ravenswood,,
+Queens,Lindenwood,,
+Queens,Laurelton,"$575,040 ",
+Queens,Lefrak City,,
+Queens,Belle Harbor,"$1,170,000 ",
+Queens,Rockaway Park,"$894,000 ",
+Queens,Somerville,,
+Queens,Brookville,,
+Queens,Bellaire,,
+Queens,North Corona,,
+Queens,Forest Hills Gardens,,
+Queens,Jamaica Hills,"$724,880 ","$1,892 "
+Queens,Utopia,,
+Queens,Pomonok,,
+Queens,Astoria Heights,,
+Queens,Hunters Point,,
+Queens,Sunnyside Gardens,,
+Queens,Blissville,,
+Queens,Roxbury,,
+Queens,Middle Village,"$850,000 ",
+Queens,Malba,,
+Queens,Hammels,,
+Queens,Bayswater,,
+Queens,Queensbridge,,
+Staten Island,St. George,,
+Staten Island,New Brighton,"$540,500 ",
+Staten Island,Stapleton,"$469,000 ",
+Staten Island,Rosebank,"$528,940 ",
+Staten Island,West Brighton,"$459,000 ",
+Staten Island,Grymes Hill,"$399,990 ",
+Staten Island,Todt Hill,"$1,080,000 ",
+Staten Island,South Beach,"$619,000 ",
+Staten Island,Port Richmond,"$449,950 ",
+Staten Island,Mariner's Harbor,"$394,000 ",
+Staten Island,Port Ivory,,
+Staten Island,Castleton Corners,"$619,000 ",
+Staten Island,New Springville,"$480,000 ",
+Staten Island,Travis,,
+Staten Island,New Dorp,"$689,000 ",
+Staten Island,Oakwood,"$576,440 ",
+Staten Island,Great Kills,"$589,900 ",
+Staten Island,Eltingville,"$564,900 ",
+Staten Island,Annadale,"$722,250 ",
+Staten Island,Woodrow,"$719,400 ",
+Staten Island,Tottenville,"$799,000 ",
+Staten Island,Tompkinsville,"$529,000 ",
+Staten Island,Silver Lake,"$285,000 ",
+Staten Island,Sunnyside,"$449,000 ",
+Staten Island,Park Hill,"$439,000 ",
+Staten Island,Westerleigh,"$598,000 ",
+Staten Island,Graniteville,"$428,900 ",
+Staten Island,Arlington,,
+Staten Island,Arrochar,"$549,000 ",
+Staten Island,Grasmere,,
+Staten Island,Old Town,,
+Staten Island,Dongan Hills,"$634,940 ",
+Staten Island,Midland Beach,"$525,000 ",
+Staten Island,Grant City,,
+Staten Island,New Dorp Beach,"$528,000 ",
+Staten Island,Bay Terrace,"$629,500 ",
+Staten Island,Huguenot,,
+Staten Island,Pleasant Plains,"$889,900 ",
+Staten Island,Butler Manor,,
+Staten Island,Charleston,"$732,000 ",
+Staten Island,Rossville,"$515,000 ",
+Staten Island,Arden Heights,"$492,500 ",
+Staten Island,Greenridge,,
+Staten Island,Heartland Village,,
+Staten Island,Chelsea,"$474,500 ",
+Staten Island,Bloomfield,,
+Staten Island,Bulls Head,"$564,990 ",
+Staten Island,Richmond Town,"$799,000 ",
+Staten Island,Shore Acres,"$359,000 ",
+Staten Island,Clifton,,
+Staten Island,Concord,"$588,400 ",
+Staten Island,Emerson Hill,,
+Staten Island,Randall Manor,"$645,000 ",
+Staten Island,Howland Hook,,
+Staten Island,Elm Park,,
+Staten Island,Manor Heights,,
+Staten Island,Willowbrook,,
+Staten Island,Sandy Ground,,
+Staten Island,Egbertville,,
+Staten Island,Prince's Bay,,
+Staten Island,Lighthouse Hill,"$579,988 ",
+Staten Island,Richmond Valley,,
+Staten Island,Fox Hills,,
